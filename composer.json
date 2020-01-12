@@ -1,0 +1,15 @@
+{
+    "name": "mt/mtlara",
+    "description": "Magical Target Laravel Application",
+    "authors": [{
+        "name": "Magical Target Information Technology",
+        "email": "info@magicaltarget.com"
+    }],
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MT\\mtlara\\": "src/"
+        }
+    }
+}
